@@ -237,3 +237,10 @@ GROUP BY shift;
 ## 📌 Conclusion
 
 This project provides a hands-on introduction to SQL for data analysts — covering database setup, data cleaning, EDA, and business-driven queries. The insights derived can help drive decisions around sales patterns, customer behavior, and product performance.
+
+##  📬 Contacts  
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:connectingsrl@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahajahanur-laskar/)
+
+I’m always open to discussing Data Analytics, Machine Learning, Streamlit Apps, and End-to-End Projects! 
